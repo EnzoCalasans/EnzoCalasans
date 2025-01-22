@@ -5,7 +5,7 @@ Desenvolvedor apaixonado por transformar ideias em experiências digitais incrí
 
 ![EnzoCalasans GitHub stats](https://github-readme-stats.vercel.app/api?username=enzocalasans&show_icons=true&theme=tokyonight) 
 
-!Top Langs
+![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=enzocalasans&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 Tecnlogias que eu uso no meu dia
 <div style="display: inline_block"><br/>
